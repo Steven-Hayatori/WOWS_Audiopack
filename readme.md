@@ -10,6 +10,10 @@
 
 保存由模型生成的原语音，便于管理。
 
+## banks文件夹
+
+最终生成的，直接放入res_mods安装的模组文件的备份。
+
 ## Suzakuin_tsubaki文件夹
 
 这是工程主目录。
@@ -17,7 +21,6 @@
 Suzakuin_tsubaki.rvm为核心工程文件，非常重要。需要使用SoundModCreator打开。
 
 Audio文件夹内为SoundModCreator读取的语音。
-
 
 SoundModCreator不会读取外面的Audio_list文件夹内的语音！
 
